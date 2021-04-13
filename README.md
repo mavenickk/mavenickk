@@ -22,21 +22,21 @@ It's me Nikhil Kumar(mavenickk)
 SDE 1 || Codechef 4* || hackerrank 6*<br />
 Student in IIIT Kottayam, Kerala (Graduation year 2022)<br />
 Interested in Software development (Backend preferred)<br />
-<p>
+
 Technologies worked with ⚡⚡:<br />
-  -Python, JavaScript, Java, C++<br />
-  -Django, HTML, CSS, MongoDB, SQL<br />
-  -Git, Postman(REST testing), AWS-S3, Heroku
-</p>
+- Python, JavaScript, Java, C++<br />
+- Django, HTML, CSS, MongoDB, SQL<br />
+- Git, Postman(REST testing), AWS-S3, Heroku
+
 Side Interests are ✨:<br />
-  -Keras, Arduino, OpenCV
+- Keras, Arduino, OpenCV
   
 Currently Learning 🌱:<br />
-  -NodeJS, ExpressJS, React, Flutter and Firebase
+- NodeJS, ExpressJS, React, Flutter and Firebase
 
 How to reach me 📫:<br />
-  -Email: mavenickk@gmail.com<br />
-  -Phone no.: 9569443377<br />
+- Email: mavenickk@gmail.com<br />
+- Phone no.: 9569443377<br />
 
 Cheers
 
