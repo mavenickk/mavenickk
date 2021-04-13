@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<a href="https://www.linkedin.com/in/mavenickk/">
+  <img align="left" alt="Akshay Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<br />
+<br />
 <!--
 **mavenickk/mavenickk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <--
@@ -15,25 +19,24 @@
 
 It's me Nikhil Kumar(mavenickk)
 
-SDE 1 || Codechef 4* || hackerrank 6*
-Student in IIIT Kottayam, Kerala (Graduation year 2022)
-Interested in Software development (Backend preferred)
-
-Technologies worked with ⚡⚡:
-  Python, JavaScript, Java, C++
-  Django, HTML, CSS, MongoDB, SQL
-  Git, Postman(REST testing), AWS-S3, Heroku
-
-Side Interests are ✨:
-  Keras, Arduino, OpenCV
+SDE 1 || Codechef 4* || hackerrank 6*<br />
+Student in IIIT Kottayam, Kerala (Graduation year 2022)<br />
+Interested in Software development (Backend preferred)<br />
+<p>
+Technologies worked with ⚡⚡:<br />
+  -Python, JavaScript, Java, C++<br />
+  -Django, HTML, CSS, MongoDB, SQL<br />
+  -Git, Postman(REST testing), AWS-S3, Heroku
+</p>
+Side Interests are ✨:<br />
+  -Keras, Arduino, OpenCV
   
-Currently Learning 🌱:
-  NodeJS, ExpressJS, React, Flutter and Firebase
+Currently Learning 🌱:<br />
+  -NodeJS, ExpressJS, React, Flutter and Firebase
 
-How to reach me 📫:
-  Linkedin: linkedin.com/in/mavenickk/
-  Email: mavenickk@gmail.com
-  Phone no.: 9569443377
+How to reach me 📫:<br />
+  -Email: mavenickk@gmail.com<br />
+  -Phone no.: 9569443377<br />
 
 Cheers
 
