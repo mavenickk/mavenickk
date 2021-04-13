@@ -41,5 +41,5 @@ How to reach me 📫:<br />
 Cheers
 
 
-## [Resume](https://drive.google.com/file/d/1sZ5srwKwI34-KRLIW4281AlnIdZub5ES/view)  
+## [Resume](https://docs.google.com/document/d/13_S1vMqbBQoLMV1PQuMBgQn31D2E6OArz9_vJU0xRX8/edit?usp=sharing)  
 <!--<img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />-->
