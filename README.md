@@ -36,7 +36,7 @@ Currently Learning 🌱:<br />
 
 How to reach me 📫:<br />
 - Email: mavenickk@gmail.com<br />
-- Phone no.: 9569443377<br />
+- Phone no.: +91-9569443377<br />
 
 Cheers
 
